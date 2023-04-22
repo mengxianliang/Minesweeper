@@ -1,6 +1,7 @@
 # Minesweeper
 扫雷 Mac版
 
+![image](https://github.com/mengxianliang/Minesweeper/blob/main/Image/screenshot.png)
 
 ### 下一步
 - 1、帮助中心
