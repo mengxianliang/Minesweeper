@@ -1,9 +1,7 @@
 # Minesweeper
 扫雷 Mac版
 
-![image](https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png)
-
-<img src="https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png" alt="" title="扫雷" width="350" height="465">
+<img src="https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png" alt="" title="扫雷" width="400" height="531">
 
 ### 下一步
 - 1、帮助中心
