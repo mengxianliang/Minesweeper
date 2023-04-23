@@ -3,7 +3,7 @@
 
 ![image](https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png)
 
-<img src="https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png" alt="" title="扫雷" width="300" height="398">
+<img src="https://github.com/mengxianliang/Minesweeper/blob/main/Image/1.png" alt="" title="扫雷" width="350" height="465">
 
 ### 下一步
 - 1、帮助中心
